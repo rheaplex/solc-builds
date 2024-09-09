@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "version": "0.8.24",
+      "sha256": "fce0d3a3d050224a65865a577e387273e0f92ac135340bcdab1953a71e30cfa7"
+    }
+  ],
+  "releases": {
+    "0.8.24": "solc-v0.8.24"
+  }
+}
